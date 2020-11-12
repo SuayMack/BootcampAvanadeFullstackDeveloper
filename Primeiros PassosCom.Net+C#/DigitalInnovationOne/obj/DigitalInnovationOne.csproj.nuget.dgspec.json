@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Priscila\\Documents\\AvanadeFullstackDeveloper\\Primeiros PassosCom.Net+C#\\DigitalInnovationOne\\DigitalInnovationOne.csproj": {}
+    "C:\\Users\\Priscila\\Documents\\AvanadeFullstackDeveloper\\Atividades\\Primeiros PassosCom.Net+C#\\DigitalInnovationOne\\DigitalInnovationOne.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Priscila\\Documents\\AvanadeFullstackDeveloper\\Primeiros PassosCom.Net+C#\\DigitalInnovationOne\\DigitalInnovationOne.csproj": {
+    "C:\\Users\\Priscila\\Documents\\AvanadeFullstackDeveloper\\Atividades\\Primeiros PassosCom.Net+C#\\DigitalInnovationOne\\DigitalInnovationOne.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Priscila\\Documents\\AvanadeFullstackDeveloper\\Primeiros PassosCom.Net+C#\\DigitalInnovationOne\\DigitalInnovationOne.csproj",
+        "projectUniqueName": "C:\\Users\\Priscila\\Documents\\AvanadeFullstackDeveloper\\Atividades\\Primeiros PassosCom.Net+C#\\DigitalInnovationOne\\DigitalInnovationOne.csproj",
         "projectName": "DigitalInnovationOne",
-        "projectPath": "C:\\Users\\Priscila\\Documents\\AvanadeFullstackDeveloper\\Primeiros PassosCom.Net+C#\\DigitalInnovationOne\\DigitalInnovationOne.csproj",
+        "projectPath": "C:\\Users\\Priscila\\Documents\\AvanadeFullstackDeveloper\\Atividades\\Primeiros PassosCom.Net+C#\\DigitalInnovationOne\\DigitalInnovationOne.csproj",
         "packagesPath": "C:\\Users\\Priscila\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Priscila\\Documents\\AvanadeFullstackDeveloper\\Primeiros PassosCom.Net+C#\\DigitalInnovationOne\\obj\\",
+        "outputPath": "C:\\Users\\Priscila\\Documents\\AvanadeFullstackDeveloper\\Atividades\\Primeiros PassosCom.Net+C#\\DigitalInnovationOne\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Priscila\\AppData\\Roaming\\NuGet\\NuGet.Config"
