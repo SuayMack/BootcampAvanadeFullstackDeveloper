@@ -1,0 +1,16 @@
+C:\Users\Priscila\Documents\AvanadeFullstackDeveloper\Atividades\Primeiros PassosCom.Net+C#\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.exe
+C:\Users\Priscila\Documents\AvanadeFullstackDeveloper\Atividades\Primeiros PassosCom.Net+C#\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.deps.json
+C:\Users\Priscila\Documents\AvanadeFullstackDeveloper\Atividades\Primeiros PassosCom.Net+C#\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.runtimeconfig.json
+C:\Users\Priscila\Documents\AvanadeFullstackDeveloper\Atividades\Primeiros PassosCom.Net+C#\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.runtimeconfig.dev.json
+C:\Users\Priscila\Documents\AvanadeFullstackDeveloper\Atividades\Primeiros PassosCom.Net+C#\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.dll
+C:\Users\Priscila\Documents\AvanadeFullstackDeveloper\Atividades\Primeiros PassosCom.Net+C#\EstruturaDoPrograma\bin\Debug\net5.0\ref\EstruturaDoPrograma.dll
+C:\Users\Priscila\Documents\AvanadeFullstackDeveloper\Atividades\Primeiros PassosCom.Net+C#\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.pdb
+C:\Users\Priscila\Documents\AvanadeFullstackDeveloper\Atividades\Primeiros PassosCom.Net+C#\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.csprojAssemblyReference.cache
+C:\Users\Priscila\Documents\AvanadeFullstackDeveloper\Atividades\Primeiros PassosCom.Net+C#\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priscila\Documents\AvanadeFullstackDeveloper\Atividades\Primeiros PassosCom.Net+C#\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.AssemblyInfoInputs.cache
+C:\Users\Priscila\Documents\AvanadeFullstackDeveloper\Atividades\Primeiros PassosCom.Net+C#\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.AssemblyInfo.cs
+C:\Users\Priscila\Documents\AvanadeFullstackDeveloper\Atividades\Primeiros PassosCom.Net+C#\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+C:\Users\Priscila\Documents\AvanadeFullstackDeveloper\Atividades\Primeiros PassosCom.Net+C#\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.dll
+C:\Users\Priscila\Documents\AvanadeFullstackDeveloper\Atividades\Primeiros PassosCom.Net+C#\EstruturaDoPrograma\obj\Debug\net5.0\ref\EstruturaDoPrograma.dll
+C:\Users\Priscila\Documents\AvanadeFullstackDeveloper\Atividades\Primeiros PassosCom.Net+C#\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.pdb
+C:\Users\Priscila\Documents\AvanadeFullstackDeveloper\Atividades\Primeiros PassosCom.Net+C#\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.genruntimeconfig.cache
